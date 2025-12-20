@@ -1,3 +1,8 @@
+/**
+Feedback
+nicely written 
+**/
+
 public class Wordle {
 
     // Reads all words from dictionary filename into a String array.
